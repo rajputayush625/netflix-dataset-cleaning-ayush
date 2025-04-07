@@ -9,7 +9,7 @@ As part of the **Data Analyst Internship**, the goal of this task was to clean a
 
 - Source: Netflix Movies and TV Shows dataset from Kaggle
 - Original File: `netflix_titles.csv`
-- Cleaned File: `netflix_titles_cleaned.csv`
+- Cleaned File: `Netflix_movies&series.csv`
 
 ---
 
@@ -40,8 +40,8 @@ As part of the **Data Analyst Internship**, the goal of this task was to clean a
 📦 Files Included
 
 - `netflix_titles.csv` – Original dataset
-- `netflix_titles_cleaned.csv` – Cleaned dataset
-- `task1_cleaning_script.py` – Python script used for cleaning
+- `netflix_movies&series.csv` – Cleaned dataset
+- `netflix_cleaning.ipynb` – Python script used for cleaning
 - `README.md` – This file
 
 📚 Concepts Practiced
